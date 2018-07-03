@@ -1,0 +1,1 @@
+# MaCoreCommodore plugin for MaRPG.pl

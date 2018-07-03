@@ -1,0 +1,57 @@
+﻿Ogolne:
+  RejestracjaDozwolona: true
+  RozpoczecieNocy: 21
+  KoniecNocy: 9
+
+Konsola:
+  PolskieZnaki: false
+
+Motd:
+  ### Czy motd w przypadku zmiany powinno zapisywac sie miedzy sesjami serwera?
+  Dynamiczne: false
+  PierwszaLinijka: '               &7&m---&8&m[-&r   &6&lMaRPG.pl&r  &8&m-]&7&m---&r            '
+  DrugaLinijka: '                       &aComing Soon!'
+
+HoverMotd:
+  ### Czy hover motd w przypadku zmiany powinno zapisywac sie miedzy sesjami serwera?
+  Dynamiczne: false
+  Linie:
+    - '&3&lPowered by:'
+    - '&bLVLUP.PRO'
+
+NazwySwiatow:
+  Karhan: world
+
+CzestotliwoscZapisywania:
+  # W minutach
+  Czat/Logi: 10
+  DanePostaci: 30
+
+PaskiHPmobow:
+  # W sekundach
+  CzasWyswietlania: 5
+
+Muzyka:
+  # W sekundach
+  PrzerwaMiedzyPiosenkami: 60
+  PiosenkaLobby: lobby
+
+Czat:
+  Ustawienia:
+    OgraniczenieNoc: 2
+    OgraniczenieDzien: 5
+  Kanaly:
+Czat:
+  Ustawienia:
+    OgraniczenieNoc: 2
+    OgraniczenieDzien: 5
+  Prefiksy:
+    Glowny: "&3** Ogólny **"
+    Handlowy: "&b** Handlowy **"
+    Moderatorow: "&a** Moderatorzy **"
+    Mistrzow: "&4** Mistrzowie **"
+    Prywatny: "&d** Prywatny **"
+Gornictwo:
+  # W sekundach.
+  MinCzasRegeneracjiRudy: 3600
+  MaksCzasRegeneracjiRudy: 10800

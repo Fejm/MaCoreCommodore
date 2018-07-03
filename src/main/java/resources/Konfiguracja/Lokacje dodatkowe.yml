@@ -1,0 +1,23 @@
+﻿# W tym pliku zapisujemy lokacje nieistotne dla graczy, a wykorzystywane np. przez NPC
+
+Karhan:
+  PostacWojownik:
+    x: 21370007
+    y: 170
+    z: 21370227
+    yaw: 60
+  PostacBarbarzynca:
+    x: 21369992
+    y: 170
+    z: 21370241
+    yaw: -153
+  PostacMag:
+    x: 21370005
+    y: 170
+    z: 21370239
+    yaw: 98
+  PostacZabojca:
+    x: 21369992
+    y: 170
+    z: 21370224
+    yaw: -24

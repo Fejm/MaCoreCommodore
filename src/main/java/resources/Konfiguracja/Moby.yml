@@ -1,0 +1,13 @@
+﻿testowy:
+  Typ: Zombie_Villager
+  Wyglad: 1
+  Ikona: 1
+  Poziomy:
+    1-15:
+      Nazwa: "testowy"
+testowy2:
+  Typ: Zombie
+  Ikona: 1
+  Poziomy:
+    1-15:
+      Nazwa: "testowy"

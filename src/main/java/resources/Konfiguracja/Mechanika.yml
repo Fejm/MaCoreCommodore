@@ -1,0 +1,30 @@
+Walka:
+  ### MaCoreCommodore automatycznie optymalizuje mechanikę walki
+  ### w zależności od paru poniższych kryteriów.
+  
+  ### Przewidywany czas pojedynku między graczami o identycznej sile.
+  ### Czas jest wyrażony w sekundach.
+  OrientacyjnyCzasPojedynku: 20
+  
+  ### Przewidywany czas zabijania potwora przy przeciętnym ekwipunku o poziomie zbliżonym do gracza.
+  ### Zauważ, że umiejętności mogą działać na całe grupy potworów.
+  ### Czas jest wyrażony w sekundach.
+  OrientacyjnyCzasZabijaniaPotwora: 15
+  
+  ### Jak duży procent wszystkich obrażeń powinien pochodzić z umiejętności?
+  ProcentUdzialuSkilliWWalce: 50
+  
+  CzasRegeneracjiUmiejetnosci: 20
+  OdstepMiedzyMiksturami: 15
+  
+  WahaniaObrazenZPiesci: 10
+  
+  ### Ile połówek serca i energii ma być przywracane graczowi każdej sekundy?
+  ### Pamiętaj, że naszyjniki i pierścienie zwiększają te wartości!
+  ### W efekcie poniższa wartość może być w praktyce większa nawet 6,4 raza!!!
+  RegenerowaneWartosciPEiPZ: 0.3
+
+Doswiadczenie:
+  IloscPotworowDoNastepnegoPoziomu: 40
+  PodstawaPotegiWyzszegoPoziomu: 1.05
+  PodstawaPotegiMobyNizszegoPoziomu: 0.9

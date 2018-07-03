@@ -1,0 +1,847 @@
+﻿#########################
+##### DozwoloneTagi #####
+#########################
+     ### *__* ###
+         # Zastosowanie
+         # OgraniczeniaKlas
+         # Modyfikowalny
+         # Wartosc
+         # Lore (domyślnie brak)
+     ### Grupa ###
+         # StartIkon (durability materiału ustawionego w Commodore dla przedmiotów specjalnych - niedozwolone dla pancerzy i tarczy)
+         # Nazwy (Lista składająca się z 10 elementów)
+     ### Pojedyńczy element ###
+         # Ikona (durability materiału ustawionego w Commodore dla przedmiotów specjalnych - niedozwolone dla pancerzy i tarczy)
+         # WymaganyPoziom
+         # Nazwa
+     ### Właściwości ###
+       ### Bronie/Inne przedmioty do noszenia w ręku ###
+           # MnoznikObrazen
+           # MnoznikUmiejetnosci (-1 oznacza, że nie można korzystać z umiejętności)
+           # SzybkoscAtaku
+           # ProcentWahaniaObrazen
+           # WydobywanieSurowcow
+       ### Pancerze ###
+           # MnoznikObrony
+       ### Tarcze ###
+           # MnoznikBloku
+       ### Biżuteria ###
+           # MnoznikRegeneracji
+     ### Bonusy
+       ### Szansa na ofensywny (proporcja)
+       ### Szansa na defensywny (proporcja)
+       ### Szansa na specjalny (proporcja)
+     ### Metadane
+       ### * Dowolne informacje *
+
+
+
+########################
+##### Zastosowania #####
+########################
+# HELM
+# NAPIERSNIK
+# NOGAWICE
+# BUTY
+# TARCZA
+# NASZYJNIK
+# PIERSCIEN
+# BRAK (Nie wyświetli się w lore, zostanie potraktowane jako broń)
+# *COKOLWIEK INNEGO* (Wyświetli się w lore, zostanie potraktowane jako broń)
+
+############################
+##### OgraniczeniaKlas #####
+############################
+# 1 oznacza, że klasa postaci NIE może korzystać z przedmiotu.
+# Kolejne bity oznaczają:
+#   Wojownika
+#   Barbarzyńcę
+#   Maga
+#   Zabójcę
+
+-1:
+  Grupa:
+    Zastosowanie: Sztylet
+    StartIkon: 1
+    OgraniczeniaKlas: '1100'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lUkryty scyzoryk
+      - §a§lNóż rzezimieszków
+      - §a§lKozik łotrów
+      - §a§lSztylet skrytobójców
+      - §a§lDemoniczna finka
+      - §a§lOstrze śmierci
+      - §a§lSmoczy sztylet
+      - §a§lSztylet z niebiańskiego kryształu
+      - §a§lZaklęty sztylet
+      - §a§lElektryczny sztylet Zeusa
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 2.4
+    ProcentWahaniaObrazen: 30
+  Bonusy:
+    SzansaNaOfensywny: 7
+    SzansaNaDefensywny: 2
+    SzansaNaSpecjalny: 1
+-2:
+  Grupa:
+    Zastosowanie: Kostur
+    StartIkon: 11
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lLaska adeptów
+      - §a§lBuława wtajemniczonych
+      - §a§lKostur leśnych druidów
+      - §a§lBerło magów z wyspy Alduin
+      - §a§lLaska orkowych szamanów
+      - §a§lKostur czerwonych magów
+      - §a§lKostur demonicznej mocy
+      - §a§lZdobiona laska arcymagów
+      - §a§lInsygnium starszych magów
+      - §a§lMagiczne berło Odyna
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 20
+  Bonusy:
+    SzansaNaOfensywny: 6
+    SzansaNaDefensywny: 3
+    SzansaNaSpecjalny: 1
+-3:
+  Grupa:
+    Zastosowanie: Ciężki miecz
+    StartIkon: 21
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lMiecz z antracytowej osełki
+      - §a§lGilotynowe ostrze
+      - §a§lDługi miecz
+      - §a§lKoncerz karhańskich strażników
+      - §a§lStalowy rozpruwacz
+      - §a§lZdobiony miecz monarchów
+      - §a§lSmoczy kieł
+      - §a§lOstrze zielonego ducha
+      - §a§lMiecz Tytanów
+      - §a§lMiecz Aresa
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 0.8
+    ProcentWahaniaObrazen: 20
+  Bonusy:
+    SzansaNaOfensywny: 7
+    SzansaNaDefensywny: 2
+    SzansaNaSpecjalny: 1
+-4:
+  Grupa:
+    Zastosowanie: Topór
+    StartIkon: 31
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lKamienny topór
+      - §a§lŻelazny topór
+      - §a§lTopór bestialców
+      - §a§lNefrytowy topór
+      - §a§lOgrowy tasak
+      - §a§lSzpon demona
+      - §a§lTopór szalonego licza
+      - §a§lTopór kresu
+      - §a§lTopór olbrzymów
+      - §a§lTopór Peruna
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+  Bonusy:
+    SzansaNaOfensywny: 6
+    SzansaNaDefensywny: 3
+    SzansaNaSpecjalny: 1
+-5:
+  Grupa:
+    Zastosowanie: Młot
+    StartIkon: 41
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lMłot praprzodków
+      - §a§lMłot dzikusów
+      - §a§lCiężki młot
+      - §a§lMłot bojowy
+      - §a§lMłot górskich awanturników
+      - §a§lMłot górskich trolli
+      - §a§lMłot smoczego oka
+      - §a§lMłot niszczycieli liczów
+      - §a§lMłot z niebiańskich kryształów
+      - §a§lMłot Thora
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 0.8
+    ProcentWahaniaObrazen: 15
+  Bonusy:
+    SzansaNaOfensywny: 8
+    SzansaNaDefensywny: 1
+    SzansaNaSpecjalny: 1
+-6:
+  Grupa:
+    Zastosowanie: Miecz
+    StartIkon: 51
+    OgraniczeniaKlas: '0110'
+    Modyfikowalny: true
+    Wartosc: 35
+    Nazwy:
+      - §a§lMiecz szeregowego
+      - §a§lSzeroki miecz
+      - §a§lPrzecinak
+      - §a§lMiecz z czarnej stali
+      - §a§lMiecz królewskich gwardzistów
+      - §a§lMiecz świtu
+      - §a§lMiecz bohaterów
+      - §a§lMiecz zjawy
+      - §a§lOstrze tytanów
+      - §a§lOstrze Ragnaroku
+  Wlasciwosci:
+    MnoznikObrazen: 1
+    MnoznikUmiejetnosci: 1
+    SzybkoscAtaku: 1.6
+    ProcentWahaniaObrazen: 10
+  Bonusy:
+    SzansaNaOfensywny: 5
+    SzansaNaDefensywny: 4
+    SzansaNaSpecjalny: 1
+
+
+
+-7:
+  Grupa:
+    Zastosowanie: HELM
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 10
+    Nazwy:
+      - §a§lHełm szeregowego
+      - §a§lHełm setnika
+      - §a§lUtwardzany hełm
+      - §a§lTygrysi hełm
+      - §a§lHełm dowódcy
+      - §a§lPlatynowy hełm
+      - §a§lHełm ze smoczych łusek
+      - §a§lHełm Bezimiennych
+      - §a§lHełm Idealnych Płatnerzy
+      - §a§lHełm z Bellaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-8:
+  Grupa:
+    Zastosowanie: HELM
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 10
+    Nazwy:
+      - §a§lPrzedarty beret
+      - §a§lSkórzany beret
+      - §a§lBeret z niedźwiedziego futra
+      - §a§lKościany hełm
+      - §a§lPustynny hełm
+      - §a§lHełm Przywódcy Driad
+      - §a§lKrwisty hełm
+      - §a§lHełm Ogrów
+      - §a§lHełm Nieprzenikalności
+      - §a§lHełm z Feroxis Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-9:
+  Grupa:
+    Zastosowanie: HELM
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 10
+    Nazwy:
+      - §a§lCzapa adeptów
+      - §a§lCzapa wtajemniczonych
+      - §a§lDruidzka czapa
+      - §a§lPozłacana czapa
+      - §a§lMeteorytowy hełm
+      - §a§lCzapa z magicznej przędzy
+      - §a§lHełm Pierwszych Magów
+      - §a§lMistyczny hełm
+      - §a§lHełm Nieskończoności
+      - §a§lHełm z Virseri Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-10:
+  Grupa:
+    Zastosowanie: HELM
+    OgraniczeniaKlas: '1110'
+    Modyfikowalny: true
+    Wartosc: 10
+    Nazwy:
+      - §a§lMatowy kaptur
+      - §a§lLekki kaptur
+      - §a§lZłodziejski kaptur
+      - §a§lKaptur skrytobójców
+      - §a§lKaptur z magicznej nici
+      - §a§lKaptur ciemności
+      - §a§lMglisty kaptur
+      - §a§lKaptur Niszczycieli
+      - §a§lKaptur Tancerzy Śmierci
+      - §a§lKaptur z Mortaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+
+
+
+-11:
+  Grupa:
+    Zastosowanie: NAPIERSNIK
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 20
+    Nazwy:
+      - §a§lNapierśnik szeregowego
+      - §a§lNapierśnik setnika
+      - §a§lUtwardzany napierśnik
+      - §a§lTygrysi napierśnik
+      - §a§lNapierśnik dowódcy
+      - §a§lPlatynowy napierśnik
+      - §a§lNapierśnik ze smoczych łusek
+      - §a§lNapierśnik Bezimiennych
+      - §a§lNapierśnik Idealnych Płatnerzy
+      - §a§lNapierśnik z Bellaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-12:
+  Grupa:
+    Zastosowanie: NAPIERSNIK
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 20
+    Nazwy:
+      - §a§lPrzedarta koszula
+      - §a§lSkórzana koszula
+      - §a§lNakrycie z niedźwiedziego futra
+      - §a§lKościany napierśnik
+      - §a§lPustynny napierśnik
+      - §a§lNapierśnik Przywódcy Driad
+      - §a§lKrwisty napierśnik
+      - §a§lNapierśnik Ogrów
+      - §a§lNapierśnik Nieprzenikalności
+      - §a§lNapierśnik z Feroxis Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-13:
+  Grupa:
+    Zastosowanie: NAPIERSNIK
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 20
+    Nazwy:
+      - §a§lSzata adeptów
+      - §a§lSzata wtajemniczonych
+      - §a§lDruidzka szata
+      - §a§lPozłacana szata
+      - §a§lMeteorytowa szata
+      - §a§lSzata z magicznej przędzy
+      - §a§lSzata Pierwszych Magów
+      - §a§lMistyczna szata
+      - §a§lSzata Nieskończoności
+      - §a§lSzata z Virseri Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-14:
+  Grupa:
+    Zastosowanie: NAPIERSNIK
+    OgraniczeniaKlas: '1110'
+    Modyfikowalny: true
+    Wartosc: 20
+    Nazwy:
+      - §a§lMatowy płaszcz
+      - §a§lLekki płaszcz
+      - §a§lZłodziejski płaszcz
+      - §a§lPłaszcz skrytobójców
+      - §a§lPłaszcz z magicznej nici
+      - §a§lPłaszcz ciemności
+      - §a§lMglisty płaszcz
+      - §a§lPłaszcz Niszczycieli
+      - §a§lPłaszcz Tancerzy Śmierci
+      - §a§lPłaszcz z Mortaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+
+
+
+-15:
+  Grupa:
+    Zastosowanie: NOGAWICE
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 15
+    Nazwy:
+      - §a§lNogawice szeregowego
+      - §a§lNogawice setnika
+      - §a§lUtwardzane nogawice
+      - §a§lTygrysie nogawice
+      - §a§lNogawice dowódcy
+      - §a§lPlatynowe nogawice
+      - §a§lNogawice ze smoczych łusek
+      - §a§lNogawice Bezimiennych
+      - §a§lNogawice Idealnych Płatnerzy
+      - §a§lNogawice z Bellaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-16:
+  Grupa:
+    Zastosowanie: NOGAWICE
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 15
+    Nazwy:
+      - §a§lPrzedarte spodnie
+      - §a§lSkórzane spodnie
+      - §a§lNogawice z niedźwiedziego futra
+      - §a§lKościane nogawice
+      - §a§lPustynne nogawice
+      - §a§lNogawice Przywódcy Driad
+      - §a§lKrwiste nogawice
+      - §a§lNogawice Ogrów
+      - §a§lNogawice Nieprzenikalności
+      - §a§lNogawice z Feroxis Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-17:
+  Grupa:
+    Zastosowanie: NOGAWICE
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 15
+    Nazwy:
+      - §a§lNogawice adeptów
+      - §a§lNogawice wtajemniczonych
+      - §a§lDruidzkie nogawice
+      - §a§lPozłacane nogawice
+      - §a§lMeteorytowe nogawice
+      - §a§lNogawice z magicznej przędzy
+      - §a§lNogawice Pierwszych Magów
+      - §a§lMistyczne nogawice
+      - §a§lNogawice Nieskończoności
+      - §a§lNogawice z Virseri Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-18:
+  Grupa:
+    Zastosowanie: NOGAWICE
+    OgraniczeniaKlas: '1110'
+    Modyfikowalny: true
+    Wartosc: 15
+    Nazwy:
+      - §a§lMatowe nogawice
+      - §a§lLekkie nogawice
+      - §a§lZłodziejskie nogawice
+      - §a§lNogawice skrytobójców
+      - §a§lNogawice z magicznej nici
+      - §a§lNogawice ciemności
+      - §a§lMgliste nogawice
+      - §a§lNogawice Niszczycieli
+      - §a§lNogawice Tancerzy Śmierci
+      - §a§lNogawice z Mortaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+
+
+
+-19:
+  Grupa:
+    Zastosowanie: BUTY
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 5
+    Nazwy:
+      - §a§lButy szeregowego
+      - §a§lButy setnika
+      - §a§lUtwardzane buty
+      - §a§lTygrysie buty
+      - §a§lButy dowódcy
+      - §a§lPlatynowe buty
+      - §a§lButy ze smoczych łusek
+      - §a§lButy Bezimiennych
+      - §a§lButy Idealnych Płatnerzy
+      - §a§lButy z Bellaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-20:
+  Grupa:
+    Zastosowanie: BUTY
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 5
+    Nazwy:
+      - §a§lPrzedarte buty
+      - §a§lSkórzane buty
+      - §a§lButy z niedźwiedziego futra
+      - §a§lKościane buty
+      - §a§lPustynne buty
+      - §a§lButy Przywódcy Driad
+      - §a§lKrwiste buty
+      - §a§lButy Ogrów
+      - §a§lButy Nieprzenikalności
+      - §a§lButy z Feroxis Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-21:
+  Grupa:
+    Zastosowanie: BUTY
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 5
+    Nazwy:
+      - §a§lSandały adeptów
+      - §a§lSandały wtajemniczonych
+      - §a§lDruidzkie sandały
+      - §a§lPozłacane buty
+      - §a§lMeteorytowe buty
+      - §a§lButy z magicznej przędzy
+      - §a§lButy Pierwszych Magów
+      - §a§lMistyczne buty
+      - §a§lButy Nieskończoności
+      - §a§lButy z Virseri Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+-22:
+  Grupa:
+    Zastosowanie: BUTY
+    OgraniczeniaKlas: '1110'
+    Modyfikowalny: true
+    Wartosc: 5
+    Nazwy:
+      - §a§lMatowe buty
+      - §a§lLekkie buty
+      - §a§lZłodziejskie buty
+      - §a§lButy skrytobójców
+      - §a§lButy z magicznej nici
+      - §a§lButy ciemności
+      - §a§lMgliste buty
+      - §a§lButy Niszczycieli
+      - §a§lButy Tancerzy Śmierci
+      - §a§lButy z Mortaris Exordium
+  Wlasciwosci:
+    MnoznikObrony: 1
+  Bonusy:
+    SzansaNaOfensywny: 2
+    SzansaNaDefensywny: 7
+    SzansaNaSpecjalny: 1
+
+
+
+-23:
+  Grupa:
+    Zastosowanie: TARCZA
+    OgraniczeniaKlas: '0111'
+    Modyfikowalny: true
+    Wartosc: 25
+    Nazwy:
+      - §a§lTarcza szeregowego
+      - §a§lTarcza setnika
+      - §a§lUtwardzana tarcza
+      - §a§lTygrysia tarcza
+      - §a§lTarcza dowódcy
+      - §a§lPlatynowa tarcza
+      - §a§lTarcza ze smoczych łusek
+      - §a§lTarcza Bezimiennych
+      - §a§lTarcza Idealnych Płatnerzy
+      - §a§lTarcza z Bellaris Exordium
+  Wlasciwosci:
+    MnoznikBloku: 1
+  Bonusy:
+    SzansaNaOfensywny: 3
+    SzansaNaDefensywny: 6
+    SzansaNaSpecjalny: 1
+-24:
+  Grupa:
+    Zastosowanie: TARCZA
+    OgraniczeniaKlas: '1011'
+    Modyfikowalny: true
+    Wartosc: 25
+    Nazwy:
+      - §a§lPrzedarta tarcza
+      - §a§lSkórzana tarcza
+      - §a§lTarcza z niedźwiedziego futra
+      - §a§lKościana tarcza
+      - §a§lPustynna tarcza
+      - §a§lTarcza Przywódcy Driad
+      - §a§lKrwista tarcza
+      - §a§lTarcza Ogrów
+      - §a§lTarcza Nieprzenikalności
+      - §a§lTarcza z Feroxis Exordium
+  Wlasciwosci:
+    MnoznikBloku: 1
+  Bonusy:
+    SzansaNaOfensywny: 3
+    SzansaNaDefensywny: 6
+    SzansaNaSpecjalny: 1
+-25:
+  Grupa:
+    Zastosowanie: TARCZA
+    OgraniczeniaKlas: '1101'
+    Modyfikowalny: true
+    Wartosc: 25
+    Nazwy:
+      - §a§lTarcza adeptów
+      - §a§lTarcza wtajemniczonych
+      - §a§lDruidzka tarcza
+      - §a§lPozłacana tarcza
+      - §a§lMeteorytowa tarcza
+      - §a§lTarcza z magicznej przędzy
+      - §a§lTarcza Pierwszych Magów
+      - §a§lMistyczna tarcza
+      - §a§lTarcza Nieskończoności
+      - §a§lTarcza z Virseri Exordium
+  Wlasciwosci:
+    MnoznikBloku: 1
+  Bonusy:
+    SzansaNaOfensywny: 3
+    SzansaNaDefensywny: 6
+    SzansaNaSpecjalny: 1
+-26:
+  Grupa:
+    Zastosowanie: TARCZA
+    OgraniczeniaKlas: '1110'
+    Modyfikowalny: true
+    Wartosc: 25
+    Nazwy:
+      - §a§lMatowa tarcza
+      - §a§lLekka Tarcza
+      - §a§lZłodziejska Tarcza
+      - §a§lTarcza skrytobójców
+      - §a§lTarcza z magicznej nici
+      - §a§lTarcza ciemności
+      - §a§lMglista tarcza
+      - §a§lTarcza Niszczycieli
+      - §a§lTarcza Tancerzy Śmierci
+      - §a§lTarcza z Mortaris Exordium
+  Wlasciwosci:
+    MnoznikBloku: 1
+  Bonusy:
+    SzansaNaOfensywny: 3
+    SzansaNaDefensywny: 6
+    SzansaNaSpecjalny: 1
+
+
+
+-27:
+  Grupa:
+    Zastosowanie: NASZYJNIK
+    StartIkon: 61
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: true
+    Wartosc: 20
+    Nazwy:
+      - §a§lDrewniany naszyjnik
+      - §a§lEbonitowy naszyjnik
+      - §a§lŻelazny naszyjnik
+      - §a§lSrebrny naszyjnik
+      - §a§lDiamentowy naszyjnik
+      - §a§lNaszyjnik z białego złota
+      - §a§lNaszyjnik Wytrwałości
+      - §a§lNaszyjnik Wiedzy
+      - §a§lŚwietlny naszyjnik
+      - §a§lEluxiteria
+  Wlasciwosci:
+    MnoznikRegeneracji: 1
+  Bonusy:
+    SzansaNaOfensywny: 4
+    SzansaNaDefensywny: 4
+    SzansaNaSpecjalny: 2
+-28:
+  Grupa:
+    Zastosowanie: PIERSCIEN
+    StartIkon: 71
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: true
+    Wartosc: 15
+    Nazwy:
+      - §a§lDrewniany pierścień
+      - §a§lEbonitowy pierścień
+      - §a§lŻelazny pierścień
+      - §a§lSrebrny pierścień
+      - §a§lDiamentowy pierścień
+      - §a§lPierścień z białego złota
+      - §a§lPierścień Wytrwałości
+      - §a§lPierścień Wiedzy
+      - §a§lŚwietlny pierścień
+      - §a§lRevilastia
+  Wlasciwosci:
+    MnoznikRegeneracji: 1
+  Bonusy:
+    SzansaNaOfensywny: 4
+    SzansaNaDefensywny: 4
+    SzansaNaSpecjalny: 2
+
+
+
+-29:
+  Pojedynczy:
+    Zastosowanie: Kilof
+    Ikona: 81
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: false
+    Wartosc: 400
+    Nazwa: '§b§lKilof (poz. I)'
+    Lore:
+      - '§7Za pomocą tego kilofa'
+      - '§7możesz wydobywać rozmaite materiały.'
+      - ""
+      - '§9Szansa na powodzenie: §f50%'
+  Wlasciwosci:
+    MnoznikObrazen: 0.5
+    MnoznikUmiejetnosci: -1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+    WydobywanieSurowcow: 50
+-30:
+  Pojedynczy:
+    Zastosowanie: Kilof
+    Ikona: 82
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: false
+    Wartosc: 750
+    Nazwa: '§b§lKilof (poz. II)'
+    Lore:
+      - '§7Za pomocą tego kilofa'
+      - '§7możesz wydobywać rozmaite materiały.'
+      - ""
+      - '§9Szansa na powodzenie: §f60%'
+  Wlasciwosci:
+    MnoznikObrazen: 0.5
+    MnoznikUmiejetnosci: -1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+    WydobywanieSurowcow: 60
+-31:
+  Pojedynczy:
+    Zastosowanie: Kilof
+    Ikona: 83
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: false
+    Wartosc: 1500
+    Nazwa: '§b§lKilof (poz. III)'
+    Lore:
+      - '§7Za pomocą tego kilofa'
+      - '§7możesz wydobywać rozmaite materiały.'
+      - ""
+      - '§9Szansa na powodzenie: §f70%'
+  Wlasciwosci:
+    MnoznikObrazen: 0.5
+    MnoznikUmiejetnosci: -1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+    WydobywanieSurowcow: 70
+-32:
+  Pojedynczy:
+    Zastosowanie: Kilof
+    Ikona: 84
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: false
+    Wartosc: 3000
+    Nazwa: '§b§lKilof (poz. IV)'
+    Lore:
+      - '§7Za pomocą tego kilofa'
+      - '§7możesz wydobywać rozmaite materiały.'
+      - ""
+      - '§9Szansa na powodzenie: §f80%'
+  Wlasciwosci:
+    MnoznikObrazen: 0.5
+    MnoznikUmiejetnosci: -1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+    WydobywanieSurowcow: 80
+-33:
+  Pojedynczy:
+    Zastosowanie: Kilof
+    Ikona: 85
+    OgraniczeniaKlas: '0000'
+    Modyfikowalny: false
+    Wartosc: 5000
+    Nazwa: '§b§lKilof (poz. V)'
+    Lore:
+      - '§7Za pomocą tego kilofa'
+      - '§7możesz wydobywać rozmaite materiały.'
+      - ""
+      - '§9Szansa na powodzenie: §f90%'
+  Wlasciwosci:
+    MnoznikObrazen: 0.5
+    MnoznikUmiejetnosci: -1
+    SzybkoscAtaku: 1.2
+    ProcentWahaniaObrazen: 30
+    WydobywanieSurowcow: 90

@@ -1,0 +1,10 @@
+Karhan:
+  Ustawienia:
+    Pojedynki: true
+    Deathmatch: false
+    Respawn: StartGry
+    Nazwa: Nieznane kresy
+  Muzyka:
+    Dziedziczenie: false
+    Dzien:
+    Noc:

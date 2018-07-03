@@ -1,0 +1,852 @@
+﻿domyslnyElementMenuSrodek:
+  Ikona: 0
+  Nazwa: '§7§oCzy wiedziałeś, że...'
+  Lore:
+    - '§8§oAby pisać historię, trzeba być'
+    - '§8§owięcej niż człowiekiem'
+    - '§8§oponieważ autor trzymający pióro'
+    - '§8§owielkiego sędziego powinien być'
+    - '§8§owolny od wszelkich uprzedzeń,'
+    - '§8§ointeresów lub próżności.'
+    - ''
+    - '§7~Napoleon Bonaparte'
+domyslnyLewyElementMenu:
+  Ikona: 1
+  Nazwa: '§7§oCzy wiedziałeś, że...'
+  Lore:
+    - '§8§oAby pisać historię, trzeba być'
+    - '§8§owięcej niż człowiekiem'
+    - '§8§oponieważ autor trzymający pióro'
+    - '§8§owielkiego sędziego powinien być'
+    - '§8§owolny od wszelkich uprzedzeń,'
+    - '§8§ointeresów lub próżności.'
+    - ''
+    - '§7~Napoleon Bonaparte'
+domyslnyPrawyElementMenu:
+  Ikona: 2
+  Nazwa: '§7§oCzy wiedziałeś, że...'
+  Lore:
+    - '§8§oAby pisać historię, trzeba być'
+    - '§8§owięcej niż człowiekiem'
+    - '§8§oponieważ autor trzymający pióro'
+    - '§8§owielkiego sędziego powinien być'
+    - '§8§owolny od wszelkich uprzedzeń,'
+    - '§8§ointeresów lub próżności.'
+    - ''
+    - '§7~Napoleon Bonaparte'
+
+pustyNaszyjnik:
+  Ikona: 3
+  Nazwa: '§f§lMiejsce na naszyjnik'
+  Lore:
+    - '§7W tym miejscu możesz'
+    - '§7umieścić swój naszyjnik'
+pustyPierscien:
+  Ikona: 4
+  Nazwa: '§f§lMiejsce na pierścień'
+  Lore:
+    - '§7W tym miejscu możesz'
+    - '§7umieścić swój pierścień'
+
+upTo5inPrivateChatVIP:
+  Ikona: 5
+  Nazwa: '§c§lTylko dla VIP'
+  Lore:
+    - '§4Ulepsz swoje konto do'
+    - '§ckonta premium§4, aby móc'
+    - '§4prowadzić rozmowę nawet'
+    - '§4z 5 osobami jednocześnie!'
+
+czatPrywatnyOpcje:
+  Ikona: 10
+  Nazwa: '§6§lUstawienia czatu'
+  Lore:
+    - '§eWciśnij aby dodać lub usunąć'
+    - '§eosoby z Twojego prywatnego czatu,'
+    - '§ejak również zablokować pisanie dla'
+    - '§eokreślonych osób.'
+
+czatPrywatnyDodawanie:
+  Ikona: 11
+  Nazwa: '§6§lDodawanie graczy'
+  Lore:
+    - '§6Wciśnij aby dodać gracza'
+    - '§6do swojego czatu prywatnego.'
+czatPrywatnyUsuwanie:
+  Ikona: 12
+  Nazwa: '§6§lUsuwanie graczy'
+  Lore:
+    - '§6Wciśnij aby usunąć gracza'
+    - '§6ze swojego czatu prywatnego.'
+czatPrywatnyBlokowanie:
+  Ikona: 13
+  Nazwa: '§6§lBlokowanie graczy'
+  Lore:
+    - '§6Wciśnij aby zablokować możliwość'
+    - '§6wysyłania do Ciebie wiadomości'
+    - '§6prywatnych przez drugiego gracza.'
+czatPrywatnyOdblokowywanie:
+  Ikona: 14
+  Nazwa: '§6§lOdblokowywanie graczy'
+  Lore:
+    - '§6Wciśnij aby odblokować możliwość'
+    - '§6wysyłania do Ciebie wiadomości'
+    - '§6prywatnych przez drugiego gracza.'
+
+powrotDoMiasta:
+  Nazwa: "§6§lPowrót do miasta"
+  Ikona: 15
+  Lore:
+    - "§eWciśnij aby powrócić do miasta."
+    - "§eOsoby z którymi się pojedynkujesz"
+    - "§ezostaną poinformowane o Twojej"
+    - "§eucieczce z walki."
+jakoscSlaboWykonane:
+  Nazwa: "§6§lJakość: §8Słabego wykonania"
+  Ikona: 16
+  Lore:
+    - "§eWciśnij aby zobaczyć przedmioty"
+    - "§ektóre ze względu na swój słaby stan"
+    - "§ewykonania, objęte są specjalną promocją."
+jakoscZwyczajne:
+  Nazwa: "§6§lJakość: §fZwyczajne"
+  Ikona: 17
+  Lore:
+    - "§eWciśnij aby zobaczyć przedmioty"
+    - "§ez podstawowej oferty."
+jakoscWzmocnione:
+  Nazwa: "§6§lJakość: §fWzmocnione"
+  Ikona: 18
+  Lore:
+    - "§eWciśnij aby zobaczyć najlepsze"
+    - "§eprzedmioty z oferty. Pamiętaj,"
+    - "§eże jakość ma swoją cenę!"
+zaproponowanoHandel:
+  Ikona: 19
+  Nazwa: '§a§lAkceptuj handel'
+  Lore:
+    - '§2Wciśnij aby przejść'
+    - '§2do okna transakcji'
+zaproponujHandel:
+  Ikona: 20
+  Nazwa: '§6§lZaproponuj handel'
+  Lore:
+    - '§eWciśnij aby zaproponować handel'
+zajetyHandel:
+  Ikona: 21
+  Nazwa: '§c§lAkceptuj handel'
+  Lore:
+    - '§4Gracz jest obecnie zajęty'
+handelPoteflon1:
+  Ikona: 22
+  Nazwa: '§6§lModyfikuj poteflony (1)'
+  Lore:
+    - '§6LPM: §eDodaj 1 poteflona do oferty'
+    - '§6PPM: §eUsuń 1 poteflona z oferty'
+handelPoteflon10:
+  Ikona: 23
+  Nazwa: '§6§lModyfikuj poteflony (10)'
+  Lore:
+    - '§6LPM: §eDodaj 10 poteflonów do oferty'
+    - '§6PPM: §eUsuń 10 poteflonów z oferty'
+handelPoteflon100:
+  Ikona: 24
+  Nazwa: '§6§lModyfikuj poteflony (100)'
+  Lore:
+    - '§6LPM: §eDodaj 100 poteflonów do oferty'
+    - '§6PPM: §eUsuń 100 poteflonów z oferty'
+handelPoteflon1000:
+  Ikona: 25
+  Nazwa: '§6§lModyfikuj poteflony (1000)'
+  Lore:
+    - '§6LPM: §eDodaj 1000 poteflonów do oferty'
+    - '§6PPM: §eUsuń 1000 poteflonów z oferty'
+handelPoteflonPlus:
+  Ikona: 26
+  Nazwa: '§f§lOferta pieniężna'
+handelPoteflonMinus:
+  Ikona: 27
+  Nazwa: '§f§lOferta pieniężna'
+handelStrzalki:
+  Ikona: 28
+  Nazwa: '§f§lPrzedmioty wymiany'
+  Lore:
+    - '§7Po zaakceptowaniu wymiany'
+    - '§7stracisz przedmioty z lewej strony,'
+    - '§7a zyskasz te z prawej strony.'
+zaproponowalHandel:
+  Ikona: 29
+  Nazwa: '§3§lZaproponuj handel'
+  Lore:
+    - '§7Oczekiwanie na'
+    - '§7drugiego gracza...'
+handelZaakceptowal:
+  Ikona: 29
+  Nazwa: '§3§lZaakceptuj wymianę'
+  Lore:
+    - '§7Oczekiwanie na'
+    - '§7drugiego gracza...'
+zaproponowalPojedynek:
+  Ikona: 29
+  Nazwa: '§3§lWyzwij na pojedynek'
+  Lore:
+    - '§7Oczekiwanie na'
+    - '§7drugiego gracza...'
+handelAkceptujObaj:
+  Ikona: 30
+  Nazwa: '§a§lZaakceptuj wymianę'
+  Lore:
+    - '§2Druga osoba zgadza się na obecną ofertę!'
+    - '§2Wciśnij aby natychmiastowo dokonać wymiany.'
+    - '§2Oznacza to, że zgadzasz się'
+    - '§2na zaproponowane warunki!'
+handelAkceptujJeden:
+  Ikona: 31
+  Nazwa: '§6§lZaakceptuj wymianę'
+  Lore:
+    - '§eWciśnij aby zaakceptować wymianę.'
+    - '§eOznacza to, że zgadzasz się'
+    - '§ena zaproponowane warunki!'
+kupiecSprzedaj:
+  Ikona: 31
+  Nazwa: '§a§lSprzedaj przedmiot'
+  Lore:
+    - '§2Sprzedaj przedmiot za zaoferowaną kwotę'
+handelAkceptujBlad:
+  Ikona: 32
+  Nazwa: '§c§lZaakceptuj wymianę'
+handelNieAkceptuj:
+  Ikona: 33
+  Nazwa: '§6§lZamknij okno handlu'
+  Lore:
+    - '§eWciśnij aby natychmiastowo'
+    - '§ezerwać transakcję'
+    - '§ei zamknąć okno wymiany'
+zaproponowanoPojedynek:
+  Ikona: 34
+  Nazwa: '§a§lAkceptuj pojedynek'
+  Lore:
+    - '§2Wciśnij aby podjąć wyzwanie'
+zaproponujPojedynek:
+  Ikona: 35
+  Nazwa: '§6§lZaproponuj pojedynek'
+  Lore:
+    - '§eWciśnij aby wyzwać'
+    - '§egracza na pojedynek'
+zajetyPojedynek:
+  Ikona: 36
+  Nazwa: '§c§lAkceptuj pojedynek'
+  Lore:
+    - '§4Gracz jest obecnie zajęty'
+pojedynekWypowiadajacyNiskiPoziom:
+  Ikona: 36
+  Nazwa: '§c§lWyzwij na pojedynek'
+  Lore:
+    - '§4Nie posiadasz jeszcze'
+    - '§4odpowiedniego poziomu,'
+    - '§4aby się pojedynkować'
+    - '§cOd poziomu: 20'
+pojedynekWypowiadanyNiskiPoziom:
+  Ikona: 36
+  Nazwa: '§c§lWyzwij na pojedynek'
+  Lore:
+    - '§4Drugi gracz nie posiada'
+    - '§4odpowiedniego poziomu,'
+    - '§4aby się pojedynkować'
+pojedynekWTrakcie:
+  Ikona: 36
+  Nazwa: '§c§lWyzwij na pojedynek'
+  Lore:
+    - '§4Walczysz już z tym graczem'
+zaklinaczPytajnik:
+  Ikona: 37
+  Nazwa: '§6§lZmiana bonusów przedmiotu'
+  Lore:
+    - "§ePo wciśnięciu na tą ikonę,"
+    - "§ebonusy w Twoim przedmiocie zostaną"
+    - "§enieodwracalnie zmienione!"
+    - "§eIch ilość może ulec zmianie."
+    - "§eBonusy mogą również zniknąć całkowicie."
+sakwa:
+  Nazwa: "§6§lSakwa"
+  Ikona: 39
+  Lore:
+    - "§eWciśnij aby zobaczyć, ile"
+    - "§eposiadasz poteflonów oraz złotych monet!"
+poprzedniaStrona:
+  Ikona: 40
+  Nazwa: '§6§lPoprzednia strona'
+  Lore:
+    - '§6Wciśnij aby przejść'
+    - '§6do poprzedniej strony.'
+nastepnaStrona:
+  Ikona: 41
+  Nazwa: '§6§lNastępna strona'
+  Lore:
+    - '§6Wciśnij aby przejść'
+    - '§6do następnej strony.'
+
+zmienJakosc:
+  Nazwa: "§6§lChcę przedmiot innej jakości!"
+  Ikona: 41
+  Lore:
+    - "§eWciśnij aby przejrzeć"
+    - "§eprzedmioty z innej półki."
+kowadlo:
+  Ikona: 42
+kowadloNiedostatek:
+  Ikona: 43
+kowadloGotowe:
+  Ikona: 44
+
+czatGlownyAktywny:
+  Ikona: 53
+  Nazwa: '§6§lCzat główny'
+  Lore:
+    - '§2Aktywny'
+    - ''
+    - '§6PPM: §eNie wysyłaj już moich'
+    - '      §ewiadomości na czat główny'
+czatGlownySluchanie:
+  Ikona: 54
+  Nazwa: '§6§lCzat główny'
+  Lore:
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6LPM: §eWysyłaj moje wiadomości'
+    - '      §ena czat główny'
+    - '§6PPM: §eWycisz czat główny'
+czatGlownyWyciszony:
+  Ikona: 55
+  Nazwa: '§6§lCzat główny'
+  Lore:
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu głównego'
+czatGlownySluchanieZablokowany:
+  Ikona: 56
+  Nazwa: '§6§lCzat główny'
+  Lore:
+    - '§4§lZablokowany!'
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6PPM: §eWycisz czat główny'
+czatGlownyWyciszonyZablokowany:
+  Ikona: 57
+  Nazwa: '§6§lCzat główny'
+  Lore:
+    - '§4§lZablokowany!'
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu głównego'
+pustySkill:
+  Ikona: 71
+  Nazwa: '§f§lMiejsce na umiejętność'
+  Lore:
+    - '§7W tym miejscu możesz'
+    - '§7umieścić ikonę umiejętności'
+
+
+czatHandlowyAktywny:
+  Ikona: 58
+  Nazwa: '§6§lCzat handlowy'
+  Lore:
+    - '§2Aktywny'
+    - ''
+    - '§6PPM: §eNie wysyłaj już moich'
+    - '      §ewiadomości na czat handlowy'
+czatHandlowySluchanie:
+  Ikona: 59
+  Nazwa: '§6§lCzat handlowy'
+  Lore:
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6LPM: §eWysyłaj moje wiadomości'
+    - '      §ena czat handlowy'
+    - '§6PPM: §eWycisz czat handlowy'
+czatHandlowyWyciszony:
+  Ikona: 60
+  Nazwa: '§6§lCzat handlowy'
+  Lore:
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu handlowego'
+czatHandlowySluchanieZablokowany:
+  Ikona: 61
+  Nazwa: '§6§lCzat handlowy'
+  Lore:
+    - '§4§lZablokowany!'
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6PPM: §eWycisz czat handlowy'
+czatHandlowyWyciszonyZablokowany:
+  Ikona: 62
+  Nazwa: '§6§lCzat handlowy'
+  Lore:
+    - '§4§lZablokowany!'
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu handlowego'
+
+czatModeratorowAktywny:
+  Ikona: 63
+  Nazwa: '§6§lCzat moderatorów'
+  Lore:
+    - '§2Aktywny'
+    - ''
+    - '§6PPM: §eNie wysyłaj już moich'
+    - '      §ewiadomości na czat moderatorów'
+czatModeratorowSluchanie:
+  Ikona: 64
+  Nazwa: '§6§lCzat moderatorów'
+  Lore:
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6LPM: §eWysyłaj moje wiadomości'
+    - '      §ena czat moderatorów'
+
+czatPrywatnyAktywny:
+  Ikona: 65
+  Nazwa: '§6§lCzat prywatny'
+  Lore:
+    - '§2Aktywny'
+    - ''
+    - '§6PPM: §eNie wysyłaj już moich'
+    - '      §ewiadomości na czat prywatny'
+czatPrywatnySluchanie:
+  Ikona: 66
+  Nazwa: '§6§lCzat prywatny'
+  Lore:
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6LPM: §eWysyłaj moje wiadomości'
+    - '      §ena czat prywatny'
+    - '§6PPM: §eWycisz czat prywatny'
+czatPrywatnyWyciszony:
+  Ikona: 67
+  Nazwa: '§6§lCzat prywatny'
+  Lore:
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu prywatnego'
+
+czatMistrzowAktywny:
+  Ikona: 68
+  Nazwa: '§6§lCzat Mistrzów Gry'
+  Lore:
+    - '§2Aktywny'
+    - ''
+    - '§6PPM: §eNie wysyłaj już moich'
+    - '      §ewiadomości na czat Mistrzów Gry'
+czatMistrzowSluchanie:
+  Ikona: 69
+  Nazwa: '§6§lCzat Mistrzów Gry'
+  Lore:
+    - '§eTylko odbieranie wiadomości'
+    - ''
+    - '§6LPM: §eWysyłaj moje wiadomości'
+    - '      §ena czat Mistrzów Gry'
+czatMistrzowWyciszony:
+  Ikona: 70
+  Nazwa: '§6§lCzat Mistrzów Gry'
+  Lore:
+    - '§cWyciszony'
+    - ''
+    - '§6LPM: §eWysyłaj mi wiadomości'
+    - '      §ez czatu Mistrzów Gry'
+
+
+
+
+
+
+
+
+skill1wojownik:
+  Nazwa: '§9§lTaniec ostrza'
+  Ikona: 72
+  Lore:
+    - '§7Wykonaj pełny obrót z bronią,'
+    - '§7raniąc pobliskich nieprzyjaciół'
+    - ''
+    - '§dOdrzuca wrogów na niewielką odległość'
+    - '§dRani wielu wrogów'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, podstawowy'
+    - '§d§lKoszt użycia: §5••••'
+skill1wojownikSzary:
+  Nazwa: '§c§lTaniec ostrza'
+  Ikona: 73
+  Lore:
+    - '§4Wykonaj pełny obrót z bronią,'
+    - '§4raniąc pobliskich nieprzyjaciół'
+    - ''
+    - '§cOdrzuca wrogów na niewielką odległość'
+    - '§cRani wielu wrogów'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, podstawowy'
+    - '§c§lKoszt użycia: §4••••'
+skill2wojownik:
+  Nazwa: '§9§lUderzenie miecza'
+  Ikona: 74
+  Lore:
+    - '§7Skorzystaj z tego tajnego ciosu'
+    - '§7Karhańskich Obrońców, aby odrzucić'
+    - '§7nieprzyjaciół na bezpieczną odległość'
+    - ''
+    - '§dOdrzuca wrogów na dużą odległość'
+    - '§dRani wielu wrogów'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, pomocniczy'
+    - '§d§lKoszt użycia: §5•••'
+skill2wojownikSzary:
+  Nazwa: '§c§lUderzenie miecza'
+  Ikona: 75
+  Lore:
+    - '§4Skorzystaj z tego tajnego ciosu'
+    - '§4Karhańskich Obrońców, aby odrzucić'
+    - '§4nieprzyjaciół na bezpieczną odległość'
+    - ''
+    - '§cOdrzuca wrogów na dużą odległość'
+    - '§cRani wielu wrogów'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, pomocniczy'
+    - '§c§lKoszt użycia: §4•••'
+skill3wojownik:
+  Nazwa: '§9§lNatarcie'
+  Ikona: 76
+  Lore:
+    - '§7Wykorzystaj kombinacje używane przez'
+    - '§7Karhańskich Obrońców, aby trafiać'
+    - '§7w czułe punkty nieprzyjaciela'
+    - ''
+    - '§dDrastycznie zwiększa szansę na zadanie krytycznego ciosu'
+    - ''
+    - '§d§lTyp umiejętności: §5Wspomagający'
+    - '§d§lKoszt użycia: §5•••'
+skill3wojownikSzary:
+  Nazwa: '§c§lNatarcie'
+  Ikona: 77
+  Lore:
+    - '§4Wykorzystaj kombinacje używane przez'
+    - '§4Karhańskich Obrońców, aby trafiać'
+    - '§4w czułe punkty nieprzyjaciela'
+    - ''
+    - '§cDrastycznie zwiększa szansę na zadanie krytycznego ciosu'
+    - ''
+    - '§c§lTyp umiejętności: §4Wspomagający'
+    - '§c§lKoszt użycia: §4•••'
+skill4wojownik:
+  Nazwa: '§9§lZasklepienie rany'
+  Ikona: 78
+  Lore:
+    - '§7Wykorzystaj swoją silną wolę zwycięstwa,'
+    - '§7aby kontynuować walkę mimo odniesionych ran'
+    - ''
+    - '§dNatychmiastowo przywraca §c1,5 §4❤'
+    - ''
+    - '§d§lTyp umiejętności: §5Specjalny'
+    - '§d§lKoszt użycia: §5••'
+skill4wojownikSzary:
+  Nazwa: '§c§lZasklepienie rany'
+  Ikona: 79
+  Lore:
+    - '§4Wykorzystaj swoją silną wolę zwycięstwa,'
+    - '§4aby kontynuować walkę mimo odniesionych ran'
+    - ''
+    - '§cNatychmiastowo przywraca 1,5 §4❤'
+    - ''
+    - '§c§lTyp umiejętności: §4Specjalny'
+    - '§c§lKoszt użycia: §4••'
+skill5wojownik:
+  Nazwa: '§9§lSzerokie uderzenie'
+  Ikona: 80
+  Lore:
+    - '§7Zadaj obrażenia wielu nieprzyjaciołom'
+    - ''
+    - '§dRani pobliskich wrogów'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, dodatkowy'
+    - '§d§lKoszt użycia: §5••'
+skill5wojownikSzary:
+  Nazwa: '§c§lSzerokie uderzenie'
+  Ikona: 81
+  Lore:
+    - '§4Zadaj obrażenia wielu nieprzyjaciołom'
+    - ''
+    - '§cRani pobliskich wrogów'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, dodatkowy'
+    - '§c§lKoszt użycia: §4••'
+skill6wojownik:
+  Nazwa: '§9§lSzarża'
+  Ikona: 82
+  Lore:
+    - '§7Szarżuj na wroga, aby obezwładnić go,'
+    - '§7zanim odzyska siłę do walki'
+    - ''
+    - '§dKrótkoterminowo zwiększa szybkość poruszania się'
+    - ''
+    - '§d§lTyp umiejętności: §5Poruszanie się'
+    - '§d§lKoszt użycia: §5••'
+skill6wojownikSzary:
+  Nazwa: '§c§lSzarża'
+  Ikona: 83
+  Lore:
+    - '§4Szarżuj na wroga, aby obezwładnić go,'
+    - '§4zanim odzyska siłę do walki'
+    - ''
+    - '§cKrótkoterminowo zwiększa szybkość poruszania się'
+    - ''
+    - '§c§lTyp umiejętności: §4Poruszanie się'
+    - '§c§lKoszt użycia: §4••'
+skill3barbarzynca:
+  Nazwa: '§9§lSiła behemota'
+  Ikona: 88
+  Lore:
+    - '§7Okaż swoją brutalną siłę'
+    - ''
+    - '§dZwiększa zadawane obrażenia'
+    - ''
+    - '§d§lTyp umiejętności: §5Wspomagający'
+    - '§d§lKoszt użycia: §5•••'
+skill3barbarzyncaSzary:
+  Nazwa: '§c§lSiła behemota'
+  Ikona: 89
+  Lore:
+    - '§4Okaż swoją brutalną siłę'
+    - ''
+    - '§cZwiększa zadawane obrażenia'
+    - ''
+    - '§c§lTyp umiejętności: §4Wspomagający'
+    - '§c§lKoszt użycia: §4•••'
+skill4barbarzynca:
+  Nazwa: '§9§lSiła behemota'
+  Ikona: 90
+  Lore:
+    - '§7Przygotuj swoje ciało w bitewny stan,'
+    - '§7zmniejszając ilość otrzymywanych obrażeń'
+    - ''
+    - '§dNieznacznie zmniejsza otrzymywane obrażenia'
+    - ''
+    - '§d§lTyp umiejętności: §5Specjalny'
+    - '§d§lKoszt użycia: §5••'
+skill4barbarzyncaSzary:
+  Nazwa: '§c§lAdrenalina'
+  Ikona: 91
+  Lore:
+    - '§4Przygotuj swoje ciało w bitewny stan,'
+    - '§4zmniejszając ilość otrzymywanych obrażeń'
+    - ''
+    - '§cNieznacznie zmniejsza otrzymywane obrażenia'
+    - ''
+    - '§c§lTyp umiejętności: §4Specjalny'
+    - '§c§lKoszt użycia: §4••'
+skill5barbarzynca:
+  Nazwa: '§9§lTąpnięcie'
+  Ikona: 92
+  Lore:
+    - '§7Odrzuć nieprzyjaciela w dal'
+    - '§7przy pomocy silnego uderzenia w podłoże'
+    - ''
+    - '§dOdrzuca wrogów na wielką odległość'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, dodatkowy'
+    - '§d§lKoszt użycia: §5••'
+skill5barbarzyncaSzary:
+  Nazwa: '§c§lTąpnięcie'
+  Ikona: 93
+  Lore:
+    - '§4Odrzuć nieprzyjaciela w dal'
+    - '§4przy pomocy silnego uderzenia w podłoże'
+    - ''
+    - '§cOdrzuca wrogów na wielką odległość'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, dodatkowy'
+    - '§c§lKoszt użycia: §4••'
+skill6barbarzynca:
+  Nazwa: '§9§lDziki skok'
+  Ikona: 94
+  Lore:
+    - '§7Dopadnij swoją ofiarę'
+    - '§7brawurowo rzucając się w jej stronę'
+    - ''
+    - '§dWystrzela postać naprzód'
+    - ''
+    - '§d§lTyp umiejętności: §5Poruszanie się'
+    - '§d§lKoszt użycia: §5••'
+skill6barbarzyncaSzary:
+  Nazwa: '§c§lDziki skok'
+  Ikona: 95
+  Lore:
+    - '§4Dopadnij swoją ofiarę'
+    - '§4brawurowo rzucając się w jej stronę'
+    - ''
+    - '§cWystrzela postać naprzód'
+    - ''
+    - '§c§lTyp umiejętności: §4Poruszanie się'
+    - '§c§lKoszt użycia: §4••'
+
+
+skill1mag:
+  Nazwa: '§9§lKula ognia'
+  Ikona: 96
+  Lore:
+    - '§7Przywołaj ognistą kulę,'
+    - '§7aby ranić nieprzyjaciół na odległość'
+    - ''
+    - '§dAtak z dystansu'
+    - '§dRani wielu wrogów'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, podstawowy'
+    - '§d§lKoszt użycia: §5••••'
+skill1magSzary:
+  Nazwa: '§c§lKula ognia'
+  Ikona: 97
+  Lore:
+    - '§4Przywołaj ognistą kulę,'
+    - '§4aby ranić nieprzyjaciół na odległość'
+    - ''
+    - '§cAtak z dystansu'
+    - '§cRani wielu wrogów'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, podstawowy'
+    - '§c§lKoszt użycia: §4••••'
+skill2mag:
+  Nazwa: '§9§lGrom'
+  Ikona: 98
+  Lore:
+    - '§7Atakuj z odległości swoich nieprzyjaciół,'
+    - '§7wzywając deszcz błyskawic'
+    - ''
+    - '§dAtak z dystansu'
+    - '§dRani wielu wrogów'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, pomocniczy'
+    - '§d§lKoszt użycia: §5•••'
+skill2magSzary:
+  Nazwa: '§c§lGrom'
+  Ikona: 99
+  Lore:
+    - '§4Atakuj z odległości swoich nieprzyjaciół,'
+    - '§4wzywając deszcz błyskawic'
+    - ''
+    - '§cAtak z dystansu'
+    - '§cRani wielu wrogów'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, pomocniczy'
+    - '§c§lKoszt użycia: §4•••'
+skill3mag:
+  Nazwa: '§9§lRegeneracja'
+  Ikona: 100
+  Lore:
+    - '§7Przywołaj smoczego ducha,'
+    - '§7aby regenerować zdrowie szybciej.'
+    - ''
+    - '§dPrzywraca dodatkowo §c0,15 §4❤§d/s'
+    - ''
+    - '§d§lTyp umiejętności: §5Wspomagający'
+    - '§d§lKoszt użycia: §5•••'
+skill3magSzary:
+  Nazwa: '§c§lRegeneracja'
+  Ikona: 101
+  Lore:
+    - '§4Przywołaj smoczego ducha,'
+    - '§4aby regenerować zdrowie szybciej.'
+    - ''
+    - '§cPrzywraca dodatkowo §c0,15 §4❤§c/s'
+    - ''
+    - '§c§lTyp umiejętności: §4Wspomagający'
+    - '§c§lKoszt użycia: §4•••'
+skill4mag:
+  Nazwa: '§9§lParaliżujący promień'
+  Ikona: 102
+  Lore:
+    - '§7Zmniejsz zagrożenie ze strony nieprzyjaciela,'
+    - '§7rażąc go paraliżującym promieniem'
+    - ''
+    - '§dKrótkoterminowo zmniejsza szybkość wroga'
+    - '§dNie zadaje obrażeń'
+    - '§dRazi pojedyńczy cel'
+    - ''
+    - '§d§lTyp umiejętności: §5Specjalny'
+    - '§d§lKoszt użycia: §5••'
+skill4magSzary:
+  Nazwa: '§c§lParaliżujący promień'
+  Ikona: 103
+  Lore:
+    - '§4Zmniejsz zagrożenie ze strony nieprzyjaciela,'
+    - '§4rażąc go paraliżującym promieniem'
+    - ''
+    - '§cKrótkoterminowo zmniejsza szybkość wroga'
+    - '§cNie zadaje obrażeń'
+    - '§cRazi pojedyńczy cel'
+    - ''
+    - '§c§lTyp umiejętności: §4Specjalny'
+    - '§c§lKoszt użycia: §4••'
+skill5mag:
+  Nazwa: '§9§lDezorientacja'
+  Ikona: 104
+  Lore:
+    - '§7Wykorzystaj szczyptę magii,'
+    - '§7aby zasiać nieco zamętu'
+    - ''
+    - '§d§lGracz: §5obraca kamerę o 180 stopni'
+    - '§d§lPotwór: §5unieruchamia na sekundę'
+    - ''
+    - '§d§lTyp umiejętności: §5Ofensywny, dodatkowy'
+    - '§d§lKoszt użycia: §5••'
+skill5magSzary:
+  Nazwa: '§c§lDezorientacja'
+  Ikona: 105
+  Lore:
+    - '§4Wykorzystaj szczyptę magii,'
+    - '§4aby zasiać nieco zamętu'
+    - ''
+    - '§c§lGracz: §4obraca kamerę o 180 stopni'
+    - '§c§lPotwór: §4unieruchamia na sekundę'
+    - ''
+    - '§c§lTyp umiejętności: §4Ofensywny, dodatkowy'
+    - '§c§lKoszt użycia: §4••'
+skill6mag:
+  Nazwa: '§9§lTeleportacja'
+  Ikona: 106
+  Lore:
+    - '§7Ucieknił nieprzyjaciołom,'
+    - '§7teleportując się w dal'
+    - ''
+    - '§dPrzenosi we wskazane miejsce'
+    - ''
+    - '§d§lTyp umiejętności: §5Poruszanie się'
+    - '§d§lKoszt użycia: §5••'
+skill6magSzary:
+  Nazwa: '§c§lTeleportacja'
+  Ikona: 107
+  Lore:
+    - '§4Ucieknił nieprzyjaciołom,'
+    - '§4teleportując się w dal'
+    - ''
+    - '§cPrzenosi we wskazane miejsce'
+    - ''
+    - '§c§lTyp umiejętności: §4Poruszanie się'
+    - '§c§lKoszt użycia: §4••'
+
+kupiec:
+  Ikona: 120
+zaklinacz:
+  Ikona: 121
+zaklinaczNiedostatek:
+  Ikona: 122
+zaklinaczGotowe:
+  Ikona: 123
+pustaBron:
+  Ikona: 124
+  Nazwa: '§f§lMiejsce na broń'
+  Lore:
+    - '§7W tym miejscu możesz'
+    - '§7umieścić swoją broń'

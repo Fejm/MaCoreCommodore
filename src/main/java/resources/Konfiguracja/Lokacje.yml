@@ -1,0 +1,55 @@
+Karhan:
+  ### Miejsce, w którym gracz zaczyna grę (przed zarejestrowaniem konta)
+  LobbyStart:
+    x: 21369872
+    y: 160
+    z: 21370357
+    yaw: -165
+  ### Miejsce, w którym gracz znajduje się po zalogowaniu - tutaj widoczne są NPCty
+  LobbyPostaci:
+    x: 21369970
+    y: 170
+    z: 21370234
+    yaw: -90
+
+  ### Miejsce, w którym gracz zaczyna grę nową postacią
+  StartGry:
+   x: -1257
+   y: 69
+   z: -46
+   yaw: -92
+   
+  ### Respawn w krainie Talmeria
+  Talmeria:
+   x: -1210
+   y: 69
+   z: -33
+   yaw: -90
+   
+  ### Respawn w krainie Bergen
+  Bergen:
+   x: 99
+   y: 68
+   z: 221
+   yaw: 90
+   
+  ### Respawn w krainie Felaris
+  Felaris:
+   x: -785
+   y: 35
+   z: 484
+   yaw: 0
+   
+  ### Respawn w krainie Boralis
+  Boralis:
+   x: -177
+   y: 89
+   z: 645
+   yaw: 82
+   
+  ### Respawn w krainie Vayron
+  Vayron:
+   x: 1457
+   y: 90
+   z: 408
+   yaw: 63

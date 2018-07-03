@@ -1,0 +1,84 @@
+Karhan:
+  1:
+    ID: 1
+    Ustawienia:
+      Nazwa: 'Vayron'
+      Respawn: Vayron
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  2:
+    ID: 3
+    Ustawienia:
+      Nazwa: 'Mildhen'
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  3:
+    ID: 4
+    Ustawienia:
+      Nazwa: 'Bergen'
+      Respawn: Bergen
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  4:
+    ID: 5
+    Ustawienia:
+      Nazwa: 'Talmeria'
+      Respawn: Talmeria
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  5:
+    ID: 14
+    Ustawienia:
+      Nazwa: 'Boralis'
+      Respawn: Boralis
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  6:
+    ID: 15
+    Ustawienia:
+      Nazwa: 'Yorden'
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  7:
+    ID: 16
+    Ustawienia:
+      Nazwa: 'Felaris'
+      Respawn: Felaris
+    Muzyka:
+      Dziedziczenie: true
+      Dzien:
+        - lobby
+      Noc:
+        - lobby
+  8:
+    ID: 216
+    Ustawienia:
+      Nazwa: 'Strefa lobby'
+      Pojedynki: false
+      Deathmatch: false
+    Muzyka:
+      Dziedziczenie: false

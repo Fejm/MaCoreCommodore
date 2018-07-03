@@ -1,0 +1,65 @@
+Karhan:
+  1:
+    1:
+      1:
+        ID: 214
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+      2:
+        ID: 215
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+      3:
+        ID: 216
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+    3:
+      1:
+        ID: 1
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+    4:
+      1:
+        ID: 216
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+  3:
+    4:
+      1:
+        ID: 206
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+    5:
+      1:
+        ID: 3
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+    10:
+      1:
+        ID: 216
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1
+  4:
+    6:
+      1:
+        ID: 216
+        Potwory:
+          MaksIlosc: 5
+          Schematy:
+            - testowy 1-3 1

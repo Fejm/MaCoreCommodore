@@ -1,0 +1,19 @@
+# Stałe:
+  
+
+### *__* ###
+  # Dziedziczenie
+  # Typ lub #Wyglad
+  # MnoznikPoteflonow
+  # MnoznikZycia
+  # MnoznikAtaku
+  # Drop:
+    # ID
+      # Szansa
+      # BonusDoBonusow
+      # BonusDoTieru
+
+genericMob:
+  Drop:
+    -1:
+      Szansa: LEVELMULT

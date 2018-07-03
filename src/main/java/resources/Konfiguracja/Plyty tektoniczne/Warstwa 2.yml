@@ -1,0 +1,166 @@
+##Mossgard
+##Femindar
+
+Karhan:
+  1:
+    1:
+      ID: 5
+      Ustawienia:
+        Nazwa: Ruiny katedry
+    2:
+      ID: 14
+      Ustawienia:
+        Nazwa: vk1
+    3:
+      ID: 35
+      Ustawienia:
+        Nazwa: Lukpetram+okolice
+    4:
+      ID: 216
+      Ustawienia:
+        Nazwa: expowisko 42-46lvl
+  3:
+    1:
+      ID: 1
+      Ustawienia:
+        Nazwa: vkaplica1
+    2:
+      ID: 3
+      Ustawienia:
+        Nazwa: vcmentarz1
+    3:
+      ID: 21
+      Ustawienia:
+        Nazwa: vo2
+    4:
+      ID: 22
+      Ustawienia:
+        Nazwa: vo1
+    5:
+      ID: 24
+      Ustawienia:
+        Nazwa: vw2 + okolice
+    6:
+      ID: 201
+      Ustawienia:
+        Nazwa: expowisko 32-35lvl
+    7:
+      ID: 202
+      Ustawienia:
+        Nazwa: expowisko 29-33lvl
+    8:
+      ID: 206
+      Ustawienia:
+        Nazwa: expowisko 25-28lvl
+    9:
+      ID: 213
+      Ustawienia:
+        Nazwa: expowisko 23-26lvl
+    10:
+      ID: 214
+      Ustawienia:
+        Nazwa: expowisko 36-39lvl
+    11:
+      ID: 215
+      Ustawienia:
+        Nazwa: expowisko 16-20lvl
+    12:
+      ID: 216
+      Ustawienia:
+        Nazwa: (jaskinia) expowisko 14-17lvl
+  4:
+    1:
+      ID: 3
+      Ustawienia:
+        Nazwa: vt1
+    2:
+      ID: 15
+      Ustawienia:
+        Nazwa: vw1
+    3:
+      ID: 42
+      Ustawienia:
+        Nazwa: vp1
+    4:
+      ID: 48
+      Ustawienia:
+        Nazwa: vm4
+      Muzyka:
+        Dziedziczenie: true
+        Dzien:
+          - miasto4
+        Noc:
+          - miasto4
+    5:
+      ID: 201
+      Ustawienia:
+        Nazwa: expowisko 27-30lvl
+    6:
+      ID: 202
+      Ustawienia:
+        Nazwa: expowisko 18-21lvl
+    7:
+      ID: 206
+      Ustawienia:
+        Nazwa: expowisko 15-18lvl
+    8:
+      ID: 213
+      Ustawienia:
+        Nazwa: expowisko 9-12lvl
+    9:
+      ID: 214
+      Ustawienia:
+        Nazwa: expowisko 7-10lvl
+    10:
+      ID: 215
+      Ustawienia:
+        Nazwa: expowisko 5-8lvl
+    11:
+      ID: 216
+      Ustawienia:
+        Nazwa: expowisko 1-4lvl
+  5:
+    1:
+      ID: 1
+      Ustawienia:
+        Nazwa: vz2
+    2:
+      ID: 214
+      Ustawienia:
+        Nazwa: expowisko 26-30lvl
+    3:
+      ID: 215
+      Ustawienia:
+        Nazwa: expowisko 24-27lvl
+    4:
+      ID: 216
+      Ustawienia:
+        Nazwa: expowisko 21-23lvl
+  7:
+    1:
+      ID: 24
+      Ustawienia:
+        Nazwa: vf1
+    2:
+      ID: 25
+      Ustawienia:
+        Nazwa: (EXPOWISKO 16-20 lvl) vz1
+  8:
+    1:
+      ID: 1
+      Ustawienia:
+        Nazwa: 'Strefa logowania'
+      Muzyka:
+        Dzien:
+          - lobby
+        Noc:
+          - lobby
+    2:
+      ID: 3
+      Ustawienia:
+        Nazwa: 'Strefa wyboru postaci'
+      Muzyka:
+        Dzien:
+          - lobby
+        Noc:
+          - lobby

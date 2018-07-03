@@ -1,0 +1,96 @@
+﻿### *__* ###
+  # ID
+  # Durability
+  # Wartosc
+  # Nazwa
+  # Lore
+  # Metadane
+
+
+### Brak ID oznacza, że przedmiot nie jest stackowalny, a Durability dotyczy
+### materiału zadeklarowanego w Commodore jako domyślny dla przedmiotów niestackowalnych
+1:
+  ID: 260
+  Wartosc: 25
+  Nazwa: '§3§lZaklęty zwój (poz. I)'
+  Lore:
+    - '§7Użyj tych zwojów, aby zmieniać'
+    - '§7bonusy w swoich przedmiotach'
+2:
+  ID: 260
+  Wartosc: 100
+  Nazwa: '§3§lZaklęty zwój (poz. II)'
+  Lore:
+    - '§7Użyj tych zwojów, aby zmieniać'
+    - '§7bonusy w swoich przedmiotach'
+3:
+  ID: 260
+  Wartosc: 750
+  Nazwa: '§3§lZaklęty zwój (poz. III)'
+  Lore:
+    - '§7Użyj tych zwojów, aby zmieniać'
+    - '§7bonusy w swoich przedmiotach'
+4:
+  ID: 171
+  Durability: 0
+  Wartosc: 5
+  Nazwa: '§3§lKamień ulepszający (poz. I)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§8uszkodzone przedmioty'
+5:
+  ID: 171
+  Durability: 1
+  Wartosc: 20
+  Nazwa: '§3§lKamień ulepszający (poz. II)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§8przedmioty słabego wykonania'
+6:
+  ID: 171
+  Durability: 2
+  Wartosc: 50
+  Nazwa: '§3§lKamień ulepszający (poz. III)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§fzwyczajne przedmioty'
+7:
+  ID: 171
+  Durability: 3
+  Wartosc: 100
+  Nazwa: '§3§lKamień ulepszający (poz. IV)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§fwzmocnione przedmioty'
+8:
+  ID: 171
+  Durability: 4
+  Wartosc: 185
+  Nazwa: '§3§lKamień ulepszający (poz. V)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§eznakomite przedmioty'
+9:
+  ID: 171
+  Durability: 5
+  Wartosc: 310
+  Nazwa: '§3§lKamień ulepszający (poz. VI)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§eelitarne przedmioty'
+10:
+  ID: 171
+  Durability: 6
+  Wartosc: 480
+  Nazwa: '§3§lKamień ulepszający (poz. VII)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§blegendarne przedmioty'
+11:
+  ID: 171
+  Durability: 7
+  Wartosc: 700
+  Nazwa: '§3§lKamień ulepszający (poz. VIII)'
+  Lore:
+    - '§7Użyj tych kamieni, aby ulepszać'
+    - '§bboskie przedmioty'
